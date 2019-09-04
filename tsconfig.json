@@ -25,7 +25,8 @@
       "common-library/*": [
         "dist/common-library/*"
       ]
-    }
+    },
+    
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
