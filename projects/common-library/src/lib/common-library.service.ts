@@ -5,5 +5,5 @@ import { Injectable,Injector } from '@angular/core';
 })
 export class CommonLibraryService {
 
-  constructor(public injector:Injector) { }
+  constructor() { }
 }
