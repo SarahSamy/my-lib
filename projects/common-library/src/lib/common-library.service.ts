@@ -1,9 +1,9 @@
-import { Injectable } from '@angular/core';
+import { Injectable,Injector } from '@angular/core';
 
 @Injectable({
   providedIn: 'root'
 })
 export class CommonLibraryService {
 
-  constructor() { }
+  constructor(public injector:Injector) { }
 }

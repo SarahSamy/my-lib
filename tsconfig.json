@@ -24,8 +24,9 @@
       ],
       "common-library/*": [
         "dist/common-library/*"
-      ]
+      ],
     },
+    
     
   },
   "angularCompilerOptions": {
